@@ -15,6 +15,6 @@ fn draw_tree(triangles: usize) {
 }
 
 fn main() {
-    let triangles = 5; // Кількість трикутників, можна змінити
+    let triangles = 5; // Кількість трикутників
     draw_tree(triangles);
 }
